@@ -11,6 +11,7 @@ import {
 import "./HomePage.css";
 
 const HomePage = () => {
+  document.title = "Sri Shiridi Sai Enterprises";
   return (
     <div className="home-page">
       <HomeFront />
