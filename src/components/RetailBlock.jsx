@@ -8,7 +8,7 @@ import "swiper/css/effect-coverflow";
 import "swiper/css/pagination";
 
 // import required modules
-import { EffectCoverflow, Pagination } from "swiper/modules";
+import { Autoplay, EffectCoverflow, Pagination } from "swiper/modules";
 import "./RetailBlock.css";
 const RetailBlock = ({ list }) => {
   return (
